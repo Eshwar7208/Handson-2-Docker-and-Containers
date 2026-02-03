@@ -111,15 +111,15 @@ docker compose up
 http://localhost:8000
 
 ---
-### Screenshots
-<<<<<<< HEAD
-!Docker desktop screenshot](screenshots/Docker_desktop.png)
-![Output screenshot](screenshots/Output.png)
-=======
-!Docker screenshot](screenshots/DockerImage.png)
-![Output screenshot](screenshots/home.png)
->>>>>>> 7f113aaa045bfaa79ae24bfe69eb9adc67e03dad
 
+### Screenshots
+#### Docker Desktop showing containers
+![Docker Desktop](screenshots/Docker_desktop.png)
+
+#### Output after handson
+![Output](screenshots/Output.png)
+
+---
 
 ## What I Learned
 
@@ -128,3 +128,6 @@ http://localhost:8000
 - Container networking between Flask, Redis, and PostgreSQL
 - Debugging and logging issues using GitHub Issues
 - Submitting results and documentation via GitHub
+
+
+[def]: screenshots/Output.png
