@@ -2,7 +2,7 @@
 
 This hands-on will guide you through installing Docker Desktop, deploying a Python Flask web application with a Redis cache, and running a PostgreSQL database. You’ll practice container networking, multi-container orchestration with Docker Compose, and submit your results via GitHub.
 
-## What You’ll Do
+## What was Done
 - Install and verify Docker Desktop
 - Run a PostgreSQL container
 - Set up Flask app and Redis cache files
@@ -22,11 +22,6 @@ This hands-on will guide you through installing Docker Desktop, deploying a Pyth
 4. Start Docker Desktop from the Start Menu
 5. If prompted, enable WSL 2 and restart
 
-### macOS
-1. Go to Docker Desktop for Mac
-2. Download the installer for your chip type (Apple Silicon or Intel)
-3. Open the .dmg file and drag Docker.app into Applications
-4. Open Docker.app and follow security prompts
 
 ### Verify Installation
 Open Command Prompt (Windows) or Terminal (Mac) and run:
@@ -116,17 +111,10 @@ docker compose up
 http://localhost:8000
 
 ---
+### Screenshots
+!Docker screenshot](screenshots/DockerImage.png)
+![Output screenshot](screenshots/home.png)
 
-## Submission
-1. Upload all files to GitHub (`app.py`, `Dockerfile`, `compose.yaml`, `requirements.txt`, `README.md`, and a document with screenshots)
-2. **README.md**: This file should contain the execution steps and what you learned in this handson, with appropriate formatting.
-3. Log the errors faced in handson (intentional errors) under the Issues tab in GitHub.
-4. Upload screenshots of:
-	- Docker Desktop app showing the containers
-	- Output obtained after the handson
-5. Submit the link of the GitHub repository in Canvas.
-
----
 
 ## What I Learned
 
