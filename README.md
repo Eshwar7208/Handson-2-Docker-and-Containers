@@ -112,8 +112,13 @@ http://localhost:8000
 
 ---
 ### Screenshots
+<<<<<<< HEAD
 !Docker desktop screenshot](screenshots/Docker_desktop.png)
 ![Output screenshot](screenshots/Output.png)
+=======
+!Docker screenshot](screenshots/DockerImage.png)
+![Output screenshot](screenshots/home.png)
+>>>>>>> 7f113aaa045bfaa79ae24bfe69eb9adc67e03dad
 
 
 ## What I Learned
